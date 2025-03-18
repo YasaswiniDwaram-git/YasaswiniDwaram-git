@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yasaswini Dwaram</h1>
+<h1 align="center">Hi there, I'm Yasaswini Dwaram</h1>
 <h3 align="center">🚀 DevSecOps Engineer | Cloud | Automation | Security</h3>
 
 <img src="https://user-images.githubusercontent.com/XXXXX/banner-image.png" alt="Banner Image" width="100%">
@@ -13,18 +13,12 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YasaswiniDwaram-git&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YasaswiniDwaram-git&theme=radical" width="48%" />
-</p>
-
 
 
 ## 🎓 Certifications
-- 📜 **AZ-104: Azure Administrator Associate**
+- 📜 **AZ-104: Microsoft Azure Administrator Associate**
 - 📜 **AWS Solutions Architect – Associate**
-- 📜 **AZ-900: Azure FuNDAMETALS**
+- 📜 **AZ-900: Microsoft Azure Fundamentals**
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-YasaswiniDwaram-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yasaswini-dwaram-7507091b8)
