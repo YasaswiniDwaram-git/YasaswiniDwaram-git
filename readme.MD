@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Yasaswini Dwaram</h1>
 <h3 align="center">🚀 DevSecOps Engineer | Cloud | Automation | Security</h3>
 
-<img src="https://user-images.githubusercontent.com/XXXXX/banner-image.png" alt="Banner Image" width="100%">
+<img src="https://github.com/YasaswiniDwaram-git/asset/blob/main/DevOps.png" alt="Banner Image" width="100%">
 
 ## 🛠️ Tech Stack
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
